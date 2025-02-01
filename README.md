@@ -1,16 +1,15 @@
-## Hi there 👋
+# My name is Mukul Joshi
 
-<!--
-**mj-stack/mj-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, Amigo Developers! 👋✨
 
-Here are some ideas to get you started:
+I'm an aspiring web developer on an exciting journey into the world of frontend technologies, mastering HTML, CSS, and JavaScript. With a passion for coding and creativity, I'm eager to build, learn, and grow every step of the way—eventually leveling up to full-stack development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join me as I explore, experiment, and share my experiences in web development. Let's code, collaborate, and innovate together! 🚀💻
+
+Follow my journey and be part of the adventure! 🚀🎯
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-joshi-5375a9229)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_oh_em_jay_)
+
