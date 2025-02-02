@@ -1,6 +1,6 @@
-# My name is Mukul Joshi
+# Hola, Amigo Developers! 👋✨
 
-Hola, Amigo Developers! 👋✨
+My name is Mukul Joshi.
 
 I'm an aspiring web developer on an exciting journey into the world of frontend technologies, mastering HTML, CSS, and JavaScript. With a passion for coding and creativity, I'm eager to build, learn, and grow every step of the way—eventually leveling up to full-stack development!
 
