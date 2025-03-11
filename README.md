@@ -6,7 +6,7 @@ I'm an aspiring full stack developer on an exciting journey into the world of we
 
 Join me as I explore and share my experiences in web development. Let's code, collaborate, and innovate together! 🚀💻
 
-Follow my journey and be part of the adventure! 🚀🎯
+Follow my journey and be part of the adventure!!! 🚀🎯
 
 
 ## 🔗 Links
