@@ -1,7 +1,7 @@
-<h1 align="center">Hola Amigo👋 I am Mukul Joshi AKA MJ</h1>
-<h3 align="center">A passionate fullstack from India</h3>
+<h1 align="center">Hola Amigo Everyone👋 Mukul Joshi Here</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **mjoshi1819@gmail.com**
 
