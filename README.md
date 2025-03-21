@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/mukul-joshi-5375a9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-joshi-5375a9229" height="30" width="40" /></a>
 <a href="https://fb.com/emjayyahanhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emjayyahanhai/" height="30" width="40" /></a>
 <a href="https://instagram.com/_oh_em_jay_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oh_em_jay_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@oh_em_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oh_em_jay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@oh_em_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oh_em_jay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
