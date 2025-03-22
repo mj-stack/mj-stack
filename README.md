@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mjoshi1819@gmail.com**
 
-- ⚡ Fun fact **Part time artist. Check YT for more ;)**
+- ⚡ Fun fact ** I am a part time artist. Check YT for more ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
