@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mj-stack&show_icons=true&locale=en&layout=compact" alt="mj-stack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mj-stack&" alt="mj-stack" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mj-stack&" alt="mj-stack" /> </p>
