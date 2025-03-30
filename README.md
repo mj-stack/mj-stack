@@ -1,22 +1,46 @@
-<h1 align="center">Hola Amigo Everyone👋 Mukul Joshi Here</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi there, I'm Mukul Joshi!
 
-- 🌱 I’m currently learning **MERN Stack**
+Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passion for building dynamic and responsive web applications. My goal is to craft clean and user-friendly interfaces while diving deeper into backend technologies.
 
-- 📫 How to reach me **mjoshi1819@gmail.com**
+## 🚀 **Tech Stack & Tools**
 
-- ⚡ Fun fact ** Also a part time musician. Check YT for more ;)**
+**Frontend:**
+- HTML, CSS, JavaScript
+- React.js, Redux Toolkit
+- Bootstrap, TailwindCSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_oh_em_jay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_oh_em_jay_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukul-joshi-5375a9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-joshi-5375a9229" height="30" width="40" /></a>
-<a href="https://fb.com/emjayyahanhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emjayyahanhai/" height="30" width="40" /></a>
-<a href="https://instagram.com/_oh_em_jay_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oh_em_jay_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@oh_em_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oh_em_jay" height="30" width="40" /></a>
-</p>
+**Backend:**
+- Node.js, Express.js
+- MongoDB, Mongoose
+- RESTful APIs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=PndQWK6M1Hjo&format=png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Tools & Platforms:**
+- Git & GitHub
+- Visual Studio Code
+- Postman, Thunderclient
+- Vercel
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mj-stack&show_icons=true&locale=en&layout=compact" alt="mj-stack" /></p>
+## 🌱 **What I'm Currently Learning**
+- Advanced React with React Router
+- Full-stack application development
+- Deployment strategies and DevOps basics
+
+## 💻 **Projects**
+- **[To-Do MERN App](https://github.com/mj-stack/todo-mern-app)**: A task management app built using the MERN stack.
+- **[More Projects](https://github.com/mj-stack?tab=repositories)**: Check out all my projects!
+
+## 📈 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🤝 **Connect With Me**
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+_Thanks for stopping by! 😊_
+
