@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 - **[More Projects](https://github.com/mj-stack?tab=repositories)**: Check out all my projects!
 
 ## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj-stack&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-stack&layout=compact&theme=radical)
 
 ## 🤝 **Connect With Me**
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
