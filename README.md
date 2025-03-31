@@ -35,8 +35,8 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-stack&layout=compact&theme=radical)
 
 ## 🤝 **Connect With Me**
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/mukul-joshi-5375a9229)
-- **GitHub**: [Your GitHub Profile](https://github.com/mj-stack)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mukul-joshi-5375a9229)
+- **GitHub**: [GitHub Profile](https://github.com/mj-stack)
 
 ---
 
