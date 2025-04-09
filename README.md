@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 
 ## 💻 **Projects**
 - **[To-Do MERN App](https://github.com/mj-stack/todo-mern-app)**: A task management app built using the MERN stack.
-- **[More Projects](https://github.com/mj-stack?tab=repositories)**: Check out all my projects!
+- **[More Projects](https://github.com/mj-stack?tab=repositories)**: Check out all my projects!!
 
 ## 📈 **GitHub Stats**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mj-stack&" alt="mj-stack" /></p>
