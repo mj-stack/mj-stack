@@ -30,8 +30,7 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 - **[More Projects](https://github.com/mj-stack?tab=repositories)**: Check out all my projects!!
 
 ## 📈 **GitHub Stats**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mj-stack&" alt="mj-stack" /></p>
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=mj-stack" alt="mj-stack" /></p>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj-stack&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mj-stack&layout=compact&theme=radical)
