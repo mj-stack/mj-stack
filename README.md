@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 
 **Tools & Platforms:**
 - Git & GitHub
-- Visual Studio Code
+- Visual Studio Code, Intellij IDEA
 - Postman, Thunderclient
 - Vercel
 
