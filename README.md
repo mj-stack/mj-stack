@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 - Git & GitHub
 - Visual Studio Code, Intellij IDEA
 - Postman, Thunderclient
-- Vercel
 
 ## 🌱 **What I'm Currently Learning**
 - Advanced React with React Router
