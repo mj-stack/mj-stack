@@ -43,4 +43,4 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
-_Thanks for stopping by!!! 💫_
+_💫 Thanks for stopping by!!! 💫_
