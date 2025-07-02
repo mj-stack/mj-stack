@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm an **Aspiring Full-Stack Web Developer** with a passio
 - Postman, Thunderclient
 
 ## 🌱 **What I'm Currently Learning**
-- Advanced React with React Router
+- Advanced React
 - Full-stack application development
 - Deployment strategies and DevOps basics
 
