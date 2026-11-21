@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mj-stack">
-    <img src="https://img.shields.io/badge/GitHub-mj--stack-181717?style=for-the-badge&logo=github" />
+  <a href="https://mukuljoshi.com">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-36BCF7?style=for-the-badge&labelColor=0D1117" />
   </a>
   <a href="https://linkedin.com/in/mukul-joshi-5375a9229">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mj-stack">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -39,11 +42,13 @@ I believe in learning by building, understanding the fundamentals, and continuou
 ## 🛠️ Tech Stack & Technologies
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 </p>
 
 ### 🤖 AI & Automation
+
 <p>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-0A192F?style=for-the-badge&logo=probot&logoColor=white" />
@@ -54,16 +59,19 @@ I believe in learning by building, understanding the fundamentals, and continuou
 </p>
 
 ### 🌐 Web & Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,mysql,nextjs" />
 </p>
 
 ### ☁️ Cloud, DevOps & Infrastructure
+
 <p>
   <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,nginx,redis" />
 </p>
 
 ### 🔧 Tools & Development Environment
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,bash" />
 </p>
@@ -86,6 +94,7 @@ I believe in learning by building, understanding the fundamentals, and continuou
 ## 🚀 Featured Projects
 
 ### 📌 To-Do MERN Application
+
 A full-stack task management application built using the MERN stack, with Redux Toolkit for state management.
 
 **Tech:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB
@@ -93,6 +102,7 @@ A full-stack task management application built using the MERN stack, with Redux 
 🔗 [View Project](https://github.com/mj-stack/todo-mern-app)
 
 ### 💻 More Projects
+
 Explore my repositories, experiments, and learning projects.
 
 🔗 [Explore All Repositories](https://github.com/mj-stack?tab=repositories)
@@ -112,11 +122,28 @@ Explore my repositories, experiments, and learning projects.
 
 ---
 
+## 🌐 Explore My Portfolio
+
+<p align="center">
+  <a href="https://mukuljoshi.com">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-mukuljoshi.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Discover my work, projects, technical journey, and everything I'm building.
+</p>
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with developers, exploring new technologies, discussing AI, and collaborating on interesting projects.
 
 <p align="center">
+  <a href="https://mukuljoshi.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/mukul-joshi-5375a9229">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
